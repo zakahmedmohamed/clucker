@@ -1,0 +1,16 @@
+[
+  {
+    "model": "microblogs.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "@johndoe",
+      "email": "johndoe@example.org",
+      "bio": "Hello, I am John Doe.",
+      "password": "pbkdf2_sha256$260000$HaxuZ8c0r02MgHxCYLIgIe$ShRC8nbvw0w2fVCsa6uvIzblRZ1k9/c02iu4ocSl8R8=",
+      "is_active": true
+
+    }
+  }
+]
